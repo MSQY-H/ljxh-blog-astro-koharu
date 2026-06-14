@@ -11,8 +11,8 @@
 # Site Basic Information
 # =============================================================================
 site:
-  title: LJXH # 网站名称
-  alternate: LJXH # 网站英文名称 用于页脚、Logo、@ handle 等
+  title: LJXH的博客 # 网站名称
+  alternate: LJXH BLOG # 网站英文名称 用于页脚、Logo、@ handle 等
   subtitle: NVIDIA GeForce RTX 5060 Ti # 网站副标题
   name: LJXH # 作者名称 - 请修改为你的名字
   description: LJXH的博客 # 网站描述
